@@ -1,0 +1,2 @@
+https://journals.sagepub.com/doi/full/10.1177/2515245919898657
+https://cran.r-project.org/web/packages/BMS/vignettes/bmsmanual.pdf
