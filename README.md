@@ -1,2 +1,4 @@
 # Seleccion_variables
-Algoritmos para selección de variables: correlación dinpamica (cross correlation, BMA o perfil coincidente)
+Proyecto con algoritmos para selección de variables (factores relevantes): Correlación dinámica (cross correlation function), método bayesiano de selección (Bayesian Model Averaging - BMA), y Perfil coincidente-liderazgo entre series de tiempo.
+
+@arturo.gonzalez
